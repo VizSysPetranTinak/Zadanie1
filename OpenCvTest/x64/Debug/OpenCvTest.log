@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\boi\documents\visual studio 2015\projects\opencvtest\opencvtest\source.cpp(15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\boi\documents\visual studio 2015\projects\opencvtest\opencvtest\source.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OpenCvTest.vcxproj -> C:\Users\Boi\Documents\Visual Studio 2015\Projects\OpenCvTest\x64\Debug\OpenCvTest.exe
+  OpenCvTest.vcxproj -> C:\Users\Boi\Documents\Visual Studio 2015\Projects\OpenCvTest\x64\Debug\OpenCvTest.pdb (Full PDB)
