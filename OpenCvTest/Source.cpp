@@ -5,6 +5,8 @@ using namespace std;
 using namespace cv;
 int counter;
 
+// Doplnený bonus z cv 2
+
 int main() {
 
 	VideoCapture vcap(0);
